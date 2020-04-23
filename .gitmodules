@@ -1,0 +1,3 @@
+[submodule "ConfigData"]
+	path = ConfigData
+	url = https://github.com/yuexinyu/ConfigData.git
